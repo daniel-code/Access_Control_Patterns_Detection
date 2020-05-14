@@ -25,8 +25,6 @@ def convert_floor(floor: str) -> int:
         'B2': -2,
         'B1': -1,
         'BF': -1,
-        '07A': 7,
-        '07B': 7,
         'RF': 100
     }
     if floor in floor_table:
